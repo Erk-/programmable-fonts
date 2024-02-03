@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "tetris/font",
+  "tetris/playground",
+  "tetris/tetris",
+  "harfbuzz-wasm",
+  "bad_apple",
+]
+resolver = "2"
